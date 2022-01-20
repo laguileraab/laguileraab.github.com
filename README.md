@@ -1,2 +1,2 @@
-# laguileraab.github.com
+# laguileraab.github.io
 My personal site
